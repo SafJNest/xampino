@@ -1,0 +1,51 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
+    }
+    #content{
+        max-width: 500px;
+        margin: auto;
+    }
+     
+    input {
+    padding: 10px;
+    font-size: 16px;
+    }
+     
+    input[type="submit"]{
+    background: #7cbcf0;
+    color:#000;
+    border: 1px solid #648daf;
+    min-width: 80px;
+    }
+     
+    hr {
+    border: 1px solid #648daf;
+    }
+     
+    table, td, th {
+    border: 1px solid #ddd;
+    text-align: left;
+    }
+     
+    table {
+    border-collapse: collapse;
+    max-width: 400px;
+    }
+     
+    th, td {
+    padding: 15px;
+    }
+     
+    th{
+    background: #7cbcf0;
+    }
+
+    
+    #form{
+        display: flex;
+        justify-content: center;
+    }
+
+    #dinamicHTML{
+        padding-top: 20px;
+    }
